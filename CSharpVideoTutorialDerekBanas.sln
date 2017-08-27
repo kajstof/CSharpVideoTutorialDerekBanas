@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-01", "derek-csharp-01\derek-csharp-01.csproj", "{8CF98A03-0524-4F06-A672-2CFEA4C28FE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-01", "derek-csharp-01\derek-csharp-01.csproj", "{8CF98A03-0524-4F06-A672-2CFEA4C28FE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-02", "derek-csharp-02\derek-csharp-02.csproj", "{8F65FE95-E32D-4010-B7C4-1E163455363A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-02", "derek-csharp-02\derek-csharp-02.csproj", "{8F65FE95-E32D-4010-B7C4-1E163455363A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-03", "derek-csharp-03\derek-csharp-03.csproj", "{91D0A2A2-14FD-4597-9747-2FE94022008E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-03", "derek-csharp-03\derek-csharp-03.csproj", "{91D0A2A2-14FD-4597-9747-2FE94022008E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-04", "derek-csharp-04\derek-csharp-04.csproj", "{D1F05B08-7CF0-4462-9530-6C80B0219B66}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-04", "derek-csharp-04\derek-csharp-04.csproj", "{D1F05B08-7CF0-4462-9530-6C80B0219B66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-05", "derek-csharp-05\derek-csharp-05.csproj", "{C553A737-CDD8-4FF9-84C4-5210C722555A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-05", "derek-csharp-05\derek-csharp-05.csproj", "{C553A737-CDD8-4FF9-84C4-5210C722555A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-06", "derek-csharp-06\derek-csharp-06.csproj", "{D854D168-4EB5-4139-9582-8612FABD9302}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-06", "derek-csharp-06\derek-csharp-06.csproj", "{D854D168-4EB5-4139-9582-8612FABD9302}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-07", "derek-csharp-07\derek-csharp-07.csproj", "{3AA2772C-C6E8-43D2-BFAC-646DCF204B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-07", "derek-csharp-07\derek-csharp-07.csproj", "{3AA2772C-C6E8-43D2-BFAC-646DCF204B01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-09", "derek-csharp-09\derek-csharp-09.csproj", "{4FE2FB1A-F6B5-4DA8-98C0-3CEA4FEBB093}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-09", "derek-csharp-09\derek-csharp-09.csproj", "{4FE2FB1A-F6B5-4DA8-98C0-3CEA4FEBB093}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-08", "derek-csharp-08\derek-csharp-08.csproj", "{EC64075F-B144-40AB-B3F7-D5F1BC727468}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-08", "derek-csharp-08\derek-csharp-08.csproj", "{EC64075F-B144-40AB-B3F7-D5F1BC727468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-10", "derek-csharp-10\derek-csharp-10.csproj", "{86E8A0EB-60AB-4E41-8D16-BD13A18D9EAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{EC64075F-B144-40AB-B3F7-D5F1BC727468}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC64075F-B144-40AB-B3F7-D5F1BC727468}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC64075F-B144-40AB-B3F7-D5F1BC727468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E8A0EB-60AB-4E41-8D16-BD13A18D9EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E8A0EB-60AB-4E41-8D16-BD13A18D9EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E8A0EB-60AB-4E41-8D16-BD13A18D9EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E8A0EB-60AB-4E41-8D16-BD13A18D9EAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
