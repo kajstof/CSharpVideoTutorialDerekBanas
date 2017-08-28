@@ -21,15 +21,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-09", "derek-cs
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-08", "derek-csharp-08\derek-csharp-08.csproj", "{EC64075F-B144-40AB-B3F7-D5F1BC727468}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-10", "derek-csharp-10\derek-csharp-10.csproj", "{86E8A0EB-60AB-4E41-8D16-BD13A18D9EAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-10", "derek-csharp-10\derek-csharp-10.csproj", "{86E8A0EB-60AB-4E41-8D16-BD13A18D9EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-11", "derek-csharp-11\derek-csharp-11.csproj", "{CC24EF71-B85F-41F4-817F-CD133E0AB740}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-11", "derek-csharp-11\derek-csharp-11.csproj", "{CC24EF71-B85F-41F4-817F-CD133E0AB740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-12", "derek-csharp-12\derek-csharp-12.csproj", "{B8B169F9-7013-4089-90E1-AA7B005AD8A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-12", "derek-csharp-12\derek-csharp-12.csproj", "{B8B169F9-7013-4089-90E1-AA7B005AD8A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-13", "derek-csharp-13\derek-csharp-13.csproj", "{DAC04F43-D075-4093-BC0F-C5B78DDDEF73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-13", "derek-csharp-13\derek-csharp-13.csproj", "{DAC04F43-D075-4093-BC0F-C5B78DDDEF73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-14", "derek-csharp-14\derek-csharp-14.csproj", "{21A79C4D-5751-4D0A-9D41-F7C64B0E9180}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "derek-csharp-14", "derek-csharp-14\derek-csharp-14.csproj", "{21A79C4D-5751-4D0A-9D41-F7C64B0E9180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derek-csharp-15", "derek-csharp-15\derek-csharp-15.csproj", "{4C906868-765E-4921-9621-7B6FA39C33B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{21A79C4D-5751-4D0A-9D41-F7C64B0E9180}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21A79C4D-5751-4D0A-9D41-F7C64B0E9180}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21A79C4D-5751-4D0A-9D41-F7C64B0E9180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C906868-765E-4921-9621-7B6FA39C33B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C906868-765E-4921-9621-7B6FA39C33B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C906868-765E-4921-9621-7B6FA39C33B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C906868-765E-4921-9621-7B6FA39C33B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
